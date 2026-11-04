@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/1a910bac-b078-4163-ba9c-69f14aaadda3" /># Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
+Cloud-storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
